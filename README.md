@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @EmersonDevLucas
-- 👀 I’m interested basketaball 
-- 🌱 I’m currently learning tanana
-- 💞️ I’m looking to collaborate on tanana
-- 📫 How to reach me tanana
-- 😄 Pronouns: tanana
-- ⚡ Fun fact: tanana
+Olá! 👋
+Sou um Desenvolvedor Web /*por enquanto*/ e sou muito interessado em criar coisas com programação.
 
-<!---
-EmersonDevLucas/EmersonDevLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Educação
+Tenho os cursos de HTML, CSS, JAVASCRIPT, REACT.JS pela Microlins - Rio de Janeiro - Brasil.
+Estudo diariamente todas as linguagens que sei no momento em projetos pessoais e em freelance.
+
+🔭 Interesses
+Como já supracitado, gosto criar coisas novas com programação e tecnologia.
+
+💻 Habilidades
+Linguagens de Programação: JavaScript
+Idiomas: Português, Inglês.
+
+🌎 Contato
+Você pode me encontrar em:
+
+Email: emersonlucasts@gmail.com
+LinkedIn: [Meu Perfil](https://www.linkedin.com/in/emerson-souza-629ba4302/)
+Não tenho redes sociais 😔
