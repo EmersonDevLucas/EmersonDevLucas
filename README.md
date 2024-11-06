@@ -1,16 +1,16 @@
 Olá! 👋
-Sou um Desenvolvedor Web /*por enquanto*/ e sou muito interessado em criar coisas com programação.
+Sou um Desenvolvedor Front-End apaixonado por criar e inovar com programação
 
 🎓 Educação
-Tenho os cursos de HTML, CSS, JAVASCRIPT, REACT.JS pela Microlins - Rio de Janeiro - Brasil.
-Estudo diariamente todas as linguagens que sei no momento em projetos pessoais e em freelance.
+Concluí cursos de HTML, CSS, JavaScript, React.js e Angular pela Microlins - Rio de Janeiro, Brasil. 
+Dedico-me diariamente ao estudo e aprimoramento das linguagens que conheço.
 
 🔭 Interesses
-Como já supracitado, gosto criar coisas novas com programação e tecnologia.
+Como já supracitado, gosto de criar coisas novas com programação e tecnologia.
 
 💻 Habilidades
-Linguagens de Programação: JavaScript
-Idiomas: Português, Inglês.
+HTML | CSS | JavaScript | PHP | Mysql | PostgreSQL | ReactJS | AngularJS | Bootstrap | Sass | Jest | Cypress | Git | GitHub | WordPress | Figma | UI/UX
+Idiomas: Português, Inglês, Espanhol.
 
 🌎 Contato
 Você pode me encontrar em:
