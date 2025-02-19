@@ -1,5 +1,5 @@
 Olá! 👋
-Sou um Desenvolvedor Front-End apaixonado por criar e inovar com programação
+Sou um Desenvolvedor Full-Stack apaixonado por criar e inovar com programação
 
 🎓 Educação
 Concluí cursos de HTML, CSS, JavaScript, React.js e Angular pela Microlins - Rio de Janeiro, Brasil. 
